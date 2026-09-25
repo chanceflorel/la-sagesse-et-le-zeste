@@ -1,0 +1,27 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1790300256831,
+      "tag": "0000_blushing_smasher",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1790302481051,
+      "tag": "0001_thick_mordo",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1790304848385,
+      "tag": "0002_fearless_silver_sable",
+      "breakpoints": true
+    }
+  ]
+}
